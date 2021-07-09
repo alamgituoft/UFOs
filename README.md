@@ -7,7 +7,8 @@ Software: Google Chrome Web Browser, Visual Studio Code 1.56.2
 
 ## Results 
 When entering the web page, the filter search options are shown on the bottom left. There are multiple criteria for searches which will filter the results based on the user's inputs. When the input searches are removed, the full default data is shown again. 
-Webpage<img width="1440" alt="Webpage" src="https://user-images.githubusercontent.com/81877387/125115753-c5616c80-e0b9-11eb-9d40-5af060fcc5e8.png">
+### Preview of the website below:
+<img width="1440" alt="Webpage" src="https://user-images.githubusercontent.com/81877387/125115753-c5616c80-e0b9-11eb-9d40-5af060fcc5e8.png">
 
 ## Summary 
 * One drawback when using the webpage is that all the data is displayed upon entering which can be quite long to scroll down to view. 
