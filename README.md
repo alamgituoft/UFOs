@@ -2,6 +2,8 @@
 ## Project Overview 
 Creating a webpage for Dana that contains a dynamic table with multiple criteria filters which allow for searches for UFO sightings across the United States.
 
+![image](https://user-images.githubusercontent.com/81877387/155235945-ea0dfa6f-8775-4299-8343-0aa3782b1b13.png)
+
 ## Resources
 Software: Google Chrome Web Browser, Visual Studio Code 1.56.2
 
